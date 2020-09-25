@@ -1,6 +1,6 @@
-# Get openjdk debs
+## Get openjdk debs
 ```sh
-# apt-get install -y --print-uris openjdk-8-jre | grep http
+$ sudo apt-get install -y --print-uris openjdk-8-jre | grep http
 ```
 
 ```sh
